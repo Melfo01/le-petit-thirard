@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## 26/02/2020 -Flair rue de la charité 
 
-You can use the [editor on GitHub](https://github.com/Melfo01/le-petit-thirard/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* **Decoration :** 2,5
+* **Nourriture :** 3,5
+* **Accueil / Service :** 4
+* **Prix :** 34€/pers le menu entrée plat dessert + 18€ /pers accord met/vin 
+* **Rapport qualité / prix :** 5
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Bistronomie par un chef Japonais. Spécialité avec influences japonaises**
 
-### Markdown
+### Ce qu’on a mangé : 
+  * Entrée : foie gras poêlé, salsifis et sauce orange miso
+  * Plat : veau rôti, sauce tartare, lentilles et champignons 
+  * Desserts :
+    * Macaron chocolat yuzu, feuilletines, mousse légère et glace noisette 
+    * Espuma de pommes vertes, crumble verveine et sorbet céleri, pomme, aneth
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Notre avis : 
+Très bon accueil, sympathique et pédagogue. Conseils et explications en œnologie. Rythme un peu lent mais satisfaisant. 
+Un peu déçus de ne pas avoir pu prendre le menu carte blanche du chef (pas possible de prendre sans poisson). Note pour revenir : appeler pour préciser les particularités (hors allergie) si vous voulez prendre un menu carte blanche). 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 30/01/2020 - Victoire & Thomas - Rue de l’arbre sec
 
-1. Numbered
-2. List
+* **Décoration :**  5
+* **Nourriture :** 3
+* **Accueil / Service :** 5
+* **Prix :** 75€ pour 2 personnes avec 1 verre de vin chacun
+* **Rapport qualité / prix :** 4
 
-**Bold** and _Italic_ and `Code` text
+**Concept de plats à partager (ou non). Propose des entrées / plats et desserts, avec des accompagnements.
+Pour 2, nous avons pris 3 plats, 1 accompagnement, 1 dessert**
 
-[Link](url) and ![Image](src)
-```
+### Ce qu’on a mangé : 
+  * Foie gras au torchon, chutney de coings et chips de pain
+  * Pomme dauphine de persil tubéreux, coulis de persil et chips de coppa
+  * Focachia aux oeufs mimosa à l’estragon, pickles de légumes, jambon blanc
+  * Conchiglionis farcis au potimaron et châtaignes gratinées, crème de parmesan (accompagnement)
+  * Biscuit noisette, mousse et taille de lait citron vert, mascarpone vanillée, sorbet pamplemousse (dessert)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Melfo01/le-petit-thirard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Notre avis :
+Concept surprenant par ses plats travaillés et recherchés. Les plats étaient tous excellents, et très pratique à se partager.
+L’accueil était de qualité, très gentils serveurs et présents.
