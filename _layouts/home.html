@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.html %}
+        {% include css.html %}
+    </head>
+
+    <body id="homepage" class="container">
+        <header>
+            {% include header.html %}
+        </header>
+
+        <div id="main">
+            <h1>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</h1>
+            {{ content }}
+        </div>
+
+        {% include scripts.html %}
+    </body>
+</html>

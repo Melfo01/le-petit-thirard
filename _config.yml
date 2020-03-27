@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+title: "Le petit Thirard"
+
+paginate: 10
+paginate_path: 'page:num'
+
+plugins:
+  - jekyll-paginate

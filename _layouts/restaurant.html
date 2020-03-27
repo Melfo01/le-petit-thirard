@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.html %}
+        {% include css.html %}
+    </head>
+
+    <body id="homepage" class="container">
+        <header>
+            {% include header.html %}
+        </header>
+
+        <div id="restaurant">
+            <h1>{% if page.title %}{{ page.title }}{% endif %}</h1>
+            <span class="address">{{ page.address}}</span>
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time>
+            <span class="link"><a target="_blank" href="https://www.victoire-thomas.com/">Lien vers le site</a></span>
+            {{ content }}
+        </div>
+
+        {% include scripts.html %}
+
+    </body>
+</html>
