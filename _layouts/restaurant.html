@@ -10,7 +10,7 @@
             {% include header.html %}
         </header>
 
-        <div id="restaurant">
+        <div id="restaurant row">
             <h1>{% if page.title %}{{ page.title }}{% endif %}</h1>
             <span class="address">{{ page.address}}</span>
             <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time>
@@ -18,7 +18,10 @@
             {{ content }}
         </div>
 
+        <div>
+            {% if page.next %}<a href="{{ page.next.url|relative_url }}" class="next float-left">⬅ {{ page.next.title }}</a>{% endif %}
+            {% if page.previous %}<a href="{{ page.previous.url|relative_url }}" class="previous float-right">{{ page.previous.title }} ➡</a>{% endif %}
+        </div>
         {% include scripts.html %}
-
     </body>
 </html>

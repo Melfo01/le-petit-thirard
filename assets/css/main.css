@@ -2,3 +2,17 @@ time {
     font-size: 80%;
     font-style: italic;
 }
+
+h1 {
+    margin-bottom: 40px;
+}
+
+ul {
+    list-style:none;
+}
+
+li article {
+    margin-bottom: 30px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid darkgrey;
+}

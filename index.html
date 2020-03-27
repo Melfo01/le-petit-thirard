@@ -1,12 +1,15 @@
 ---
 layout: home
 ---
+
 <ul class="post-list">
     {% for post in paginator.posts %}
     <li>
         <article>
             <a href="{{ post.url|relative_url }}">
-                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time> - {{ post.title }}
+                <h2>{{ post.title }}</h2>
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time><br>
+                <span class="button">Lire ➡</span>
             </a>
         </article>
     </li>
