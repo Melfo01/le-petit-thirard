@@ -1,9 +1,11 @@
 ---
 layout: restaurant
-tags: [arbre sec, janvier, 2020]
+tags: [arbre sec, janvier, 2020, tapas, partager]
 address: Rue de l’arbre sec, Lyon
 date: 30/01/2020
 link: https://www.victoire-thomas.com/
+description: Concept de plats à partager (ou non). Propose des entrées / plats et desserts, avec des accompagnements.
+arrondissement: [1, 1er, 69001]
 ---
 
 * **Décoration :**  5

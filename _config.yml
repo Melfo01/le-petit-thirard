@@ -1,6 +1,6 @@
 title: "Le petit Thirard"
 
-baseurl: /le-petit-thirard/
+baseurl: /
 
 paginate: 10
 paginate_path: 'page:num'

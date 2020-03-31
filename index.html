@@ -9,6 +9,7 @@ layout: home
             <a href="{{ post.url|relative_url }}">
                 <h2>{{ post.title }}</h2>
                 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time><br>
+                <p>{{ post.description }}</p>
                 <span class="button">Lire ➡</span>
             </a>
         </article>

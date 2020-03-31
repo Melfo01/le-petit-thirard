@@ -4,6 +4,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="{{ '/'|relative_url }}">Home</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ '/qui-sommes-nous'|relative_url }}">Qui sommes-nous ?</a>
+            </li>
         </ul>
 
         <form class="form-inline">
@@ -13,3 +16,6 @@
 </nav>
 <!-- Search results -->
 <ul id="results-container"></ul>
+
+<h1>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</h1>
+<span>Notre guide des restaurants lyonnais</span>
