@@ -14,7 +14,7 @@
             <h1>{% if page.title %}{{ page.title }}{% endif %}</h1>
             <span class="address">{{ page.address}}</span>
             <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time>
-            <span class="link"><a target="_blank" href="https://www.victoire-thomas.com/">Lien vers le site</a></span>
+            <span class="link"><a target="_blank" href="{{ page.link }}">Lien vers le site</a></span>
             {{ content }}
         </div>
 
