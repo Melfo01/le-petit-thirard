@@ -2,7 +2,7 @@
 layout: restaurant
 tags: [michelin, étoilé, novembre, 2020, française, masséna, 6ème]
 address: 33 rue des malesherbes, Lyon
-date: 25/11/2020
+date: 25/11/2019
 link: http://www.takaotakano.com/
 description: Gastronomie française 2 étoiles au Michelin
 arrondissement: [6, 6ème, 69006]
