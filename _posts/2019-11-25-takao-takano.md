@@ -8,11 +8,11 @@ description: Gastronomie française 2 étoiles au Michelin
 arrondissement: [6, 6ème, 69006]
 ---
 
-* **Decoration :** 5
-* **Nourriture :** 5
-* **Accueil / Service :** 5
+* **Decoration :** 5/5
+* **Nourriture :** 5/5
+* **Accueil / Service :** 5/5
 * **Prix :** 90€/pers le menu entrée 2 plats frommage dessert 
-* **Rapport qualité / prix :** 5
+* **Rapport qualité / prix :** 5/5
 
 **Gastronomie française, 2 étoiles au Michelin**
 
