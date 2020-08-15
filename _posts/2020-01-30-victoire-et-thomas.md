@@ -25,5 +25,5 @@ Pour 2, nous avons pris 3 plats, 1 accompagnement, 1 dessert**
   * Biscuit noisette, mousse et taille de lait citron vert, mascarpone vanillée, sorbet pamplemousse (dessert)
 
 ### Notre avis :
-Concept surprenant par ses plats travaillés et recherchés. Les plats étaient tous excellents, et très pratique à se partager.
+Concept surprenant par ses plats travaillés et recherchés. Les plats étaient tous excellents, et très pratiques à se partager.
 L’accueil est de qualité, très gentils serveurs et présents.

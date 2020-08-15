@@ -28,5 +28,5 @@ arrondissement: [6, 6ème, 69006]
 
 ### Notre avis : 
 Le chef japonais propose une cuisine française d’exception. Nous avons dégusté une cuisine d’automne, aux saveurs puissantes et délicates. 
-Nous avons été accueillis dans ce restaurant magnifique à la décoration très sobre par une équipe très sympathique. Le service, qui a été irréprochable, dans les règles de l’art, sans être guindé, nous a permis de passer une superbe soirée. 
+Nous avons été accueillis dans ce restaurant à la décoration très sobre par une équipe très sympathique. Le service, qui a été irréprochable, dans les règles de l’art, sans être guindé, nous a permis de passer une superbe soirée. 
 Un attention particulière a été apportée pour les plats de Guillaume, qui ne mange pas de poisson. (Prévenir au moment de la réservation). 

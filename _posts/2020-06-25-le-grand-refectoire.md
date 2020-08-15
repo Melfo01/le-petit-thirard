@@ -13,7 +13,7 @@ description: Jolie table dans une superbe salle au coeur de l'Hôtel Dieu.
 * **Prix :** 55€ pour le menu 4 services, 
 * **Rapport qualité / prix :** 3/5
 
-**Cuisine bistronomique simple, dans un cadre très agréable. **
+**Cuisine bistronomique simple, dans un cadre très agréable.**
 
 ### Ce qu’on a mangé : 
   * Charlotte 
@@ -29,6 +29,6 @@ description: Jolie table dans une superbe salle au coeur de l'Hôtel Dieu.
 ### Notre avis :
 C'est dans le coeur de l'Hôtel Dieu que se loge ce joli restaurant bistronomique, où l'on dîne dans une gigantesque salle du vieil hôpital, ornée de vitraux et de grands lustres. 
 
-Un bon moment. Les plats sont beaux et fins, mais sans grande surprise********. 
+Un bon moment. Les plats sont beaux et fins, mais sans grande surprise. 
 
   
